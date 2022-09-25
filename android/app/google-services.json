@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "915687981784",
+    "project_id": "heal-d6037",
+    "storage_bucket": "heal-d6037.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915687981784:android:ba3cd2eb9c760ba14dcdad",
+        "android_client_info": {
+          "package_name": "com.example.heal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915687981784-r96nfji82aaagtf3bv05l14dmsijdo31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgqPtP9b2pVTWANUwnDALPcjDCdaKQyFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915687981784-r96nfji82aaagtf3bv05l14dmsijdo31.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "915687981784-862kqun8iec6vens0on4i90tpbja8gmf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.heal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
